@@ -1,4 +1,11 @@
 **/.ipynb_checkpoints
 **/__pycache__
 training.csv.gz
-**/.vscode
+test.csv.gz
+submission_file.csv.gz
+.vscode
+**/reference/
+**/data/
+**/output/
+**/submission/
+submission.*
